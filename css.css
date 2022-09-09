@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: black;  
+}
+
+#container{
+    display: grid;
+    grid-template-columns: repeat(2, 15vw)
+}
