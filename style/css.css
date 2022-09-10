@@ -1,7 +1,7 @@
 body{
     background-color: blue;
     font-weight: bolder;
-    font-size: 24px;
+    font-family: Gill Sans;
 }
 
 .header{
@@ -17,5 +17,5 @@ body{
 
 #container{
     display: grid;
-    grid-template-columns: repeat(2, 25vw)
+    grid-template-columns: repeat(2, 20vw)
 }
