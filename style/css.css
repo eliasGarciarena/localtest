@@ -6,6 +6,6 @@ body{
 }
 
 .tablero{
-    display: flex;
-    justify-content: left;
+    display: grid;
+    grid-template-columns: repeat(5, 15vw);
 }
