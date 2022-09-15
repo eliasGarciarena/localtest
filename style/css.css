@@ -5,8 +5,7 @@ body{
     font-family: Verdana;
 }
 
-.body{
+.tablero{
     display: flex;
     justify-content: left;
-    width: 100%;
 }
